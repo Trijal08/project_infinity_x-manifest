@@ -46,9 +46,6 @@ TARGET_BUILD_GOOGLE_TELEPHONY := true/false (Default: false)
 # Whether the device supports screen off touchgestures:
 TARGET_SUPPORTS_TOUCHGESTURES := true/false (Default: false)
 
-# Whether the compiled package ships ViMusic
-TARGET_BUILD_VIMUSIC := true/false (Default: false)
-
 # Whether the compiled package ships Moto Calculator irrespective VANILLA or GAPPS:
 USE_MOTO_CALCULATOR := true/false (Default: false)
 ```
