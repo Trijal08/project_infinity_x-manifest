@@ -17,6 +17,7 @@
   <project path="external/ntfs-3g" name="android_external_ntfs-3g" remote="lineage" />
   <project path="external/openssh" name="android_external_openssh" remote="lineage" />
   <project path="external/rsync" name="android_external_rsync" remote="lineage" />
+  <project path="external/skia" name="android_external_skia" groups="pdk,qcom_msm8x26" remote="lineage" />
   <project path="external/unrar" name="android_external_unrar" remote="lineage" />
   <project path="external/webp" name="android_external_webp" remote="lineage" />
   <project path="external/vim" name="android_external_vim" remote="lineage" />
@@ -39,6 +40,7 @@
   <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="lineage" revision="lineage-21" />
   <project path="kernel/configs" name="android_kernel_configs" remote="lineage" />
   <project path="system/bpf" name="android_system_bpf" remote="lineage" />
+  <project path="system/keymint" name="android_system_keymint" groups="pdk" remote="lineage" />
   <project path="system/security" name="android_system_security" remote="lineage" />
   <project path="system/vold" name="android_system_vold" remote="lineage" />
 
